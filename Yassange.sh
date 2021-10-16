@@ -21,12 +21,6 @@ sleep 2
 clear
 ls
 cd ..
-ls
-cd storage
-ls
-cd downloads
-ls
-sleep 3
 clear
 echo -e "$BLUE"
 echo "░░░░█████
@@ -70,8 +64,12 @@ echo -e "$BLUE "
 echo " Ahora coloca "
 sleep 3
 echo ""
+echo -e "$YELLOW"
 echo " youtube-dl mas la URL sacada de you tube del video que quieres "         
  echo ""
-sleep 3
+sleep 2
+echo -e "$BLUE"
 echo " Terminada la descarga del video ,te vas a tu memoria interna del celular
-a la carpeta download y encuentra tu video "                                            echo ""                                                                                 echo ""
+a la carpeta download y encuentra tu video "                                           
+ echo ""        
+echo ""
