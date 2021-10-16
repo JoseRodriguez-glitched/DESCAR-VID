@@ -19,7 +19,7 @@ echo "
   "
 sleep 2
 clear
-
+ls
 cd ..
 ls
 cd storage
