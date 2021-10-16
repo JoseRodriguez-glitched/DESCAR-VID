@@ -60,7 +60,7 @@ echo "░░░░█████
                                                                                         
 echo ""                                                                                
 echo -e "$BLUE "
-echo " dirigete a la carpeta que quieres que aparesca el video "
+echo " dirigete a la carpeta storage , luego a la carpeta download  "
 echo ""
 echo " una vez estando en esa carpeta coloca "
 sleep 3
