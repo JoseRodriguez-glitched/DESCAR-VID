@@ -59,9 +59,10 @@ echo "░░░░█████
 ░░░░░░░░░░░░░░░░░░░░░░░░░██████             Y V A N_A S S A N G E "
                                                                                         
 echo ""                                                                                
- echo ""
 echo -e "$BLUE "
-echo " Ahora coloca "
+echo " dirigete a la carpeta que quieres que aparesca el video "
+echo ""
+echo " una vez estando en esa carpeta coloca "
 sleep 3
 echo ""
 echo -e "$YELLOW"
