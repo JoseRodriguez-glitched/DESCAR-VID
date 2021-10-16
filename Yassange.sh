@@ -7,9 +7,14 @@ BLUE='\033[34m'
 MAGENTA='\033[35m'
 echo -e "$YELLOW"
 
-pkg install python
+pkg install python3
 termux-setup-storage
 pip install --upgrade youtube-dl
+apt update
+echo ""
+echo " ELLA NO TE AMA "
+echo ""
+apt upgrade
 clear
 
 
@@ -19,7 +24,7 @@ echo "
   "
 sleep 2
 clear
-
+cd ..
 ls
 cd storage
 ls
