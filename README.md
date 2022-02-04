@@ -1,18 +1,15 @@
 # DESCAR-VID
 ES UNA HERRAMIENTA QUE SE ENCARGA PARA DESCARGAR VIDEO DE YOU TUBE DESDE LA TERMINAL TERMUX
-
+```
 apt update
 
 apt upgrade
 
-pkg install git
+apt install git
 
 git clone https://github.com/yassange/DESCAR-VID
 
-ls
-
 cd DESCAR-VID
 
-ls
-
 bash Yassange.sh
+```
