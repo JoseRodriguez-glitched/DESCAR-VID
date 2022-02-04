@@ -60,17 +60,16 @@ echo "░░░░█████
                                                                                         
 echo ""                                                                                
 echo -e "$BLUE "
-echo " dirigete a la carpeta storage , luego a la carpeta download  "
-echo ""
-echo " una vez estando en esa carpeta coloca "
+cd /sdcard/Download/
 sleep 3
 echo ""
 echo -e "$YELLOW"
 echo " youtube-dl mas la URL sacada de you tube del video que quieres "         
  echo ""
+echo "Ejemplo youtube-dl https://youtu.be/6o7bCAZSxsg"
 sleep 2
 echo -e "$BLUE"
-echo " Terminada la descarga del video ,te vas a tu memoria interna del celular
-a la carpeta download y encuentra tu video "                                           
+echo " Terminada la descarga del video, con tu explorador de archivos favorito te vas a tu memoria interna del celular
+a la carpeta Download y encuentra tu video "                                           
  echo ""        
 echo ""
